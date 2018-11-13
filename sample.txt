@@ -1,3 +1,7 @@
 This is a sample text.
 
 This is the second sample text for the second commit
+
+This is the Third sample text for the Third commit
+
+This is the Fourth sample text for the Fourth commit
